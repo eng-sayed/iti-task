@@ -81,7 +81,13 @@ setState(() {
                     ),
                     SizedBox(child: Divider(
                       thickness: .9,
-                    ),)
+                    ),),SizedBox(child: Divider(
+                      thickness: .9,
+                    ),),SizedBox(child: Divider(
+                      thickness: .9,
+                    ),),SizedBox(child: Divider(
+                      thickness: .9,
+                    ),),
                   ],
                 ),
               );
